@@ -1,0 +1,12 @@
+# Ignore environment variables
+.env
+
+# Ignore credentials and tokens
+credentials.json
+token.json
+
+# Ignore PDFs
+*.pdf
+
+# Ignore Python cache files and directories
+__pycache__/
